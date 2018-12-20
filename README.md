@@ -28,8 +28,7 @@ symetrycznym do wylosowanego. Natomiast jeżeli wybrany przedział jest większy
 niż 1, to zostaje on podzielony na ćwiartki oznaczone odpowiednio a, b, c oraz d
 i losowanie zostaje powtórzone, tym razem dla mniejszego obszaru. Program
 kontynuuje swoje działanie, dopóki nie wygeneruje wymaganej ilości jedynek
-(krawędzi grafu). Na koniec podaje dodatkowo ich ilość. **(Pseudokod na odwrocie
-kartki)**
+(krawędzi grafu). Na koniec podaje dodatkowo ich ilość.
 
 **Napotkane problemy: 1.**Reprezentacja macierzowa grafu zapisana, za pomocą
 tablic w języku programowania c++ **2.**Określenie i wygenerowanie podanej
@@ -207,8 +206,6 @@ if(czyWazony)**)**
 
 **Wypisz graf na ekranie lub do pliku. Na koniec podaj jeszcze jego rozmiar oraz
 gęstość.**
-
-**Pełny kod programu w C++ dostępny pod adresem:** http://pastebin.com/JwPU13Lq
 
 **Wnioski:** Program działa i prawidłowo losuje/generuje wszystkie możliwe
 krawędzie grafu dla podanych przez użytkownika danych, takich jak:
