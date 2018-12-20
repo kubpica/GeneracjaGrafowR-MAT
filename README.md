@@ -99,7 +99,6 @@ a=25% b=25% c=25% d=25%
 Gęstość grafu: 0.4 (25/64)
 
 **Pseudokod:**
-```
 **Wypisz na ekran:** "Program generuje graf o wymiarach n\^2 i podanej przez
 użytkownika gęstości. \\n"
 
@@ -206,7 +205,7 @@ if(czyWazony)**)**
 
 **Wypisz graf na ekranie lub do pliku. Na koniec podaj jeszcze jego rozmiar oraz
 gęstość.**
-```
+
 
 **Wnioski:** Program działa i prawidłowo losuje/generuje wszystkie możliwe
 krawędzie grafu dla podanych przez użytkownika danych, takich jak:
