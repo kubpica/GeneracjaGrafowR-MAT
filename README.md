@@ -98,7 +98,9 @@ a=25% b=25% c=25% d=25%
 
 Gęstość grafu: 0.4 (25/64)
 
+
 **Pseudokod:**
+
 **Wypisz na ekran:** "Program generuje graf o wymiarach n\^2 i podanej przez
 użytkownika gęstości. \\n"
 
