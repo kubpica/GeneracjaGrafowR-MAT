@@ -1,9 +1,4 @@
-**Imię i nazwisko:** Jakub Pranica **Grupa:** Informatyka - 13i **Data:**
-20-03-2017 **Przedmiot:** Metody Programowania
-
-**Wykładowca:** dr inż. Zbigniew Kokosiński **Semestr:** 2
-
-**Temat:** Napisać algorytm generujący graf o wymiarach n\^2 i podanej przez
+**Temat:** Algorytm generujący graf o wymiarach n\^2 i podanej przez
 użytkownika gęstości.
 
 **Graf** – podstawowy obiekt rozważań teorii grafów, struktura matematyczna
@@ -43,7 +38,7 @@ wielkości grafu. **3.**Rozpoznanie różnic w generacji grafu skierowanego oraz
 ważonego **4.**Wypisanie na ekran i do pliku grafu w postaci macierzowej
 zapisanego w tablicy dwuwymiarowej.
 
-**Przykładowy wynik programu:**
+**Przykładowy wynik programu:** (patrz sprawozdanie.docx)
 
 ![](media/fc4617fe875986f7f9a30bee52acb6c0.png)
 
